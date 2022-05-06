@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <meta property="og:image" content="https://c.tenor.com/AcAvI8PSAO0AAAAd/groovydominoes-groovydominoes52.gif">
+        <meta property="og:type" content="video.other">
+        <meta property="og:video:url" content="https://cdn.discordapp.com/attachments/809694292288602124/972056182644678676/The_Rock_Middle_Finger.mp4">
+        <meta property="og:video:height" content="640">
+        <meta property="og:video:width" content="358">
+    </head>
+    <body>
+        <iframe width="885" height="498" src="https://www.youtube.com/embed/R7eaYa19nn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </body>
+</html>
